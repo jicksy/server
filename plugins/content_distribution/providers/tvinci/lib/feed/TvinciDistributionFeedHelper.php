@@ -212,7 +212,6 @@ class TvinciDistributionFeedHelper
 				$metadataObject->metadata->addChild($key, '');
 		}
 	}
-
 	
 
 	private function setAttribute($node, $attribName, $attribValue)
